@@ -6,7 +6,7 @@ from flask_cors import CORS
 import os
 
 # Load the model
-model = keras.saving.load_model("model.h5")
+model = keras.saving.load_model("../model.h5")
 
 app = Flask(__name__)
 CORS(app)
