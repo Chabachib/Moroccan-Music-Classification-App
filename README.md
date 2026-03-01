@@ -95,7 +95,7 @@ Optimizer: Adam
 ------------------------------------------------------------------------
 
 ## Project Structure
-
+```
 Moroccan-Music-Classification-App/
 ├─ backend/
 │  ├─ main.py
