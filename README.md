@@ -1,4 +1,4 @@
-# Moroccan Music Genre Classification System
+# ![Morocco](frontend/public/morocco.ico) Moroccan Music Classification App
 
 ![Status](https://img.shields.io/badge/status-Production--Ready-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.11+-blue)
