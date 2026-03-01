@@ -138,10 +138,5 @@ Backend runs at: http://127.0.0.1:8989
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-Built with ❤️ --- Chabachib
-```{=html}
-</p>
-```
+<p align="center">Built with ❤️ Chabachib</p>
+
