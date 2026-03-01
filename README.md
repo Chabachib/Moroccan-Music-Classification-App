@@ -86,12 +86,6 @@ Optimizer: Adam
 
 -   React (Single-page application)
 
-## DevOps
-
--   Docker (containerized backend)
--   Virtual environments
--   Modular project structure
-
 ------------------------------------------------------------------------
 
 ## Project Structure
@@ -113,29 +107,6 @@ Moroccan-Music-Classification-App/
    ├─ trim-audio-and-convert-to-wav.ipynb
    └─ model-training.ipynb
 ```
---------------------------
-
-# 🔌 Backend API
-
-### POST `/predict`
-
-**Request** - multipart/form-data - Field: `file` - Supported formats:
-wav, mp3, aac, flac
-
-**Response Example** { "class": "gnawa" }
-
-Error Example { "error": "File type not allowed" }
-
-------------------------------------------------------------------------
-
-# 🐳 Docker Deployment
-
-cd backend\
-docker build -t moroccan-music-backend .\
-docker run -p 8989:8989 moroccan-music-backend
-
-Backend runs at: http://127.0.0.1:8989
-
 ------------------------------------------------------------------------
 
 <p align="center">Built with ❤️ Chabachib</p>
