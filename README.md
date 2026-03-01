@@ -1,4 +1,4 @@
-# ![Morocco](frontend/public/morocco.ico) Moroccan Music Classification App
+# Moroccan Music Genre Classification System 🇲🇦
 
 ![Status](https://img.shields.io/badge/status-Production--Ready-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.11+-blue)
@@ -97,6 +97,9 @@ Optimizer: Adam
 ## Project Structure
 
 ```
+Moroccan-Music-Classif## Project Structure
+
+```
 Moroccan-Music-Classification-App/
 ├─ backend/
 │  ├─ main.py
@@ -113,9 +116,7 @@ Moroccan-Music-Classification-App/
    ├─ scrap-artists-songs.ipynb
    ├─ trim-audio-and-convert-to-wav.ipynb
    └─ model-training.ipynb
-```
-
-------------------------------------------------------------------------
+```--------------------------
 
 # 🔌 Backend API
 
