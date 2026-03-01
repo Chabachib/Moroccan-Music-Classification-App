@@ -55,7 +55,7 @@ Optimizer: Adam
 -   Dataset size: ~5,000+ audio clips
 -   Classes: 7
 -   Train/Test Split: 80/20
--   Final Test Accuracy: ~92-98%
+-   Final Test Accuracy: 95%
 
 ------------------------------------------------------------------------
 
