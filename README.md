@@ -1,8 +1,8 @@
 # Moroccan Music Genre Classification System 🇲🇦
 
-![Status](https://img.shields.io/badge/status-Production--Ready-brightgreen)
+![Status](https://img.shields.io/badge/status-Done-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.11+-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![TensorFlow](https://img.shields.io/badge/DeepLearning-LSTM-orange)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 
 A Full-stack AI system for classifying Moroccan music genres from
